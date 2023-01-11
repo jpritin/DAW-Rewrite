@@ -13,7 +13,7 @@
         case "multiplicar":
             $result = $op1 * $op2;
             break;
-        case "dividr":
+        case "dividir":
             $result = $op1 / $op2;
             break;
         default:
