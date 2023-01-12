@@ -15,7 +15,7 @@ http://localhost/suma/8/6
 
 Crea un .htaccess con el siguiente contenido:
 
-```
+```bash
 Options FollowSymLinks
 RewriteEngine On
 RewriteBase /
