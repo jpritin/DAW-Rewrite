@@ -24,6 +24,9 @@ RewriteRule ^([a-z]+)/([0-9]+)/([0-9]+)$ operacion.php?op=$1&op1=$2&op2=$3
 
 ## Solución
 
+- Fichero 'operacion.php': [operacion.php](ejercicio3/operacion.php)
+- Fichero '.htacces': [.htaccess](ejercicio3/htaccess)
+
 ![Image](https://github.com/jpritin/DAW-Rewrite/blob/26f0fbbb5f29060289e29dfc1fd35ffec4847bcc/ejercicio3/pruebaEj3.jpeg)
 
 ## Autores
