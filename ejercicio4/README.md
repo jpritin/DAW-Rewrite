@@ -9,8 +9,16 @@
   Require all granted
 </VirtualHost>
 ```
+![img](imagen1.png)
+
 ## Paso 2: escribimos en el fichero *.htaccess* en /var/www/html las reglas de reescritura.
 ```bash
 RewriteEngine on
 ReWriteRule ^buscar/(.*).html$ https://www.google.com/search?q=$1 [NC]
 ```
+
+![img](imagen2.png)
+
+## Ejemplo:
+
+![img](imagen3.png)
